@@ -134,9 +134,9 @@
                             <i id="iconShow" class="fa fa-eye"></i>
                         </button>
                     </div>
-                    <div class="text-end mt-1">
+                    {{-- <div class="text-end mt-1">
                         <a href="#" class="small text-primary">Forgot password?</a>
-                    </div>
+                    </div> --}}
                 </div>
 
                 {{-- <div class="form-check mb-3">
